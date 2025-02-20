@@ -56,4 +56,4 @@ You can join our Discord server [here](https://discord.gg/SBqT5AxBaY)! It's a wa
 - [MBHaxe Port](https://github.com/RandomityGuy/MBHaxe/)
 
 # License
-You may use this to make mods, but your mods must be released for free.
+You may use this to make mods, but your mods must be released for free. 
